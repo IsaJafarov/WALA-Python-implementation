@@ -1,0 +1,2 @@
+def funcN():
+    return "NNN"

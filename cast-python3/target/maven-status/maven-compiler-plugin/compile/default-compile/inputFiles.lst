@@ -1,0 +1,12 @@
+/home/isa/python-frontend/cast-python3/src/main/java/custom/Main.java
+/home/isa/python-frontend/cast-python3/src/main/java/com/ibm/wala/cast/python3/loader/Python3Loader.java
+/home/isa/python-frontend/cast-python3/src/main/java/com/ibm/wala/cast/python3/parser/PythonFileParser.java
+/home/isa/python-frontend/cast-python3/src/main/java/com/ibm/wala/cast/python3/parser/PythonCAstEntity.java
+/home/isa/python-frontend/cast-python3/src/main/java/com/ibm/wala/cast/python3/util/Python3Interpreter.java
+/home/isa/python-frontend/cast-python3/src/main/java/com/ibm/wala/cast/python3/loader/Python3LoaderFactory.java
+/home/isa/python-frontend/cast-python3/src/main/java/com/ibm/wala/cast/python3/parser/PythonModuleParser.java
+/home/isa/python-frontend/cast-python3/src/main/java/com/ibm/wala/cast/python3/parser/PythonParser.java
+/home/isa/python-frontend/cast-python3/src/main/java/org/python/antlr/WalaErrorHandler.java
+/home/isa/python-frontend/cast-python3/src/main/java/custom/MyClass.java
+/home/isa/python-frontend/cast-python3/src/main/java/custom/MyVisitor.java
+/home/isa/python-frontend/cast-python3/src/main/java/com/ibm/wala/cast/python3/parser/WalaPythonParser.java
