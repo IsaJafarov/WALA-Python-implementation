@@ -10,4 +10,4 @@ This project is an impementation of the [WALA-Python](https://github.com/Anemone
 
 Due to some unsolvable issues regarding dependencies, the project code has been written in the library. It includes all the classes in the *custom* package.
 
-The Python scripts are in the *cast-python3/src/main/resources folder*. The scripts can be replaced with another project files.
+The Python scripts are in the *cast-python3/src/main/resources* folder. The scripts can be replaced with another project files.
